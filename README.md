@@ -5,7 +5,6 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributions](#contributions)
 - [Link to Walkthrough Video](#link-to-walkthrough-video)
 
 
