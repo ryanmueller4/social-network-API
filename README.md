@@ -23,3 +23,4 @@ This is an API for a social network application that utilizes Express, MongoDB, 
 Use a REST client like Insomnia to the test API routes and query the MongoDB database.
 
 ## Link to Walkthrough Video
+https://drive.google.com/file/d/13JcJFpQrc5Y4r2ifHCNCFxyasZQrIeWV/view?usp=sharing
