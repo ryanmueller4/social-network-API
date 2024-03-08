@@ -20,7 +20,7 @@ const ReactionSchema = new Schema(
         createdAt: {
             type: Date,
             default: Date.now,
-            get: formatDate,
+            get: (timestamp) => formatDate(timestamp),
         },
     },
     {
